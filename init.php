@@ -1,2 +1,2 @@
 <?php
-echo("Ola pessoal - alterando do linux / MACOS");
+echo("Ola pessoal - alterando do linux / MACOS\n");
