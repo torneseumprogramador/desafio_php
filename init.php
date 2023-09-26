@@ -1,2 +1,6 @@
 <?php
-echo("Ola pessoal - alterando do linux / MACOS\n");
+
+echo "Digite algo: ";
+$entrada = fgets(STDIN);
+
+echo "Você digitou: " . $entrada;
