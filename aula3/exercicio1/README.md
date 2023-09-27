@@ -1,7 +1,7 @@
 
 # Exercicio sobre condicionais
 ```
-Faça um programa que capiture 
+Faça um programa que capture 
 o nome do cliente
 o nome do produto
 o valor do produto
