@@ -10,4 +10,4 @@ Aula 3
 Aula 4
     - https://chat.openai.com/share/912f394d-b9f1-4577-8684-fe7451d841cb
 Aula 5
-    - 
+    - https://chat.openai.com/share/621ede62-8ab7-4775-88ad-356938544f5e
