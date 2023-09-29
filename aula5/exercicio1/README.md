@@ -1,3 +1,4 @@
+```
 Agora que vc já conhece:
 variável, condicionais, loop, array
 
@@ -11,3 +12,4 @@ nome  ,  cargo,       valor
 =================================
 Daniel,  gestor,      R$ 10500,00
 Cleyson, programador, R$ 8200,00
+```
