@@ -12,3 +12,6 @@ Aula 4
 
 Aula 5
 - https://chat.openai.com/share/621ede62-8ab7-4775-88ad-356938544f5e
+
+Aula 6
+- 
