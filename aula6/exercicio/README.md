@@ -13,6 +13,8 @@ um item no menu de saida do estoque onde vc digita o codigo do produto e quanto 
 
 também terá um relatório onde irá mostrar todos os produtos e os seus itens em estoque
 
+faça o codigo organizado com funções
+
 =================================
 id  nome    descricao  quantidade
 =================================
