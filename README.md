@@ -17,7 +17,10 @@ Aula 6
 - https://chat.openai.com/share/5205e382-9050-441e-a6ce-dda18db5a483
 
 Aula 7
-- Include, POO
+- https://chat.openai.com/share/80ab7989-cfa3-4292-ab9e-fa315e0e0a73
 
 Aula 8
+- Aprofundamento em POO
+
+Aula 9
 - Persistencia, conexão com banco de dados mysql
