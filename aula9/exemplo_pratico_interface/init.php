@@ -42,7 +42,7 @@ $uno->cor = "verde";
 // }
 
 // $service = new CarroServiceSemAcoplamento(new MemoriaRepository());
-$service = new CarroServiceSemAcoplamento(new JsonRepository("carros.json"));
+$service = new CarroServiceSemAcoplamento(new JsonRepository("carros.json")); // injeção de dependencia
 $service->salvar($ecosporte);
 $service->salvar($uno);
 
