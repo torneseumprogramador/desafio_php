@@ -23,7 +23,7 @@ Aula 8
 - https://chat.openai.com/share/29c9a21a-490b-46f1-83dc-99063bfb4bb6
 
 Aula 9
-- interface e abstração POO
+- https://chat.openai.com/share/2cc82402-9cef-4873-b4d9-682c4c600e3e
 
 Aula 10
-- Persistencia, conexão com banco de dados mysql
+- Abstração, Persistencia, conexão com banco de dados mysql
