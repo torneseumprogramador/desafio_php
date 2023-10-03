@@ -26,4 +26,4 @@ Aula 9
 - https://chat.openai.com/share/2cc82402-9cef-4873-b4d9-682c4c600e3e
 
 Aula 10
-- Abstração, Persistencia, conexão com banco de dados mysql
+- Abstração, Singleton, Persistencia, Composer, conexão com banco de dados mysql
