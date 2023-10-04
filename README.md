@@ -26,4 +26,7 @@ Aula 9
 - https://chat.openai.com/share/2cc82402-9cef-4873-b4d9-682c4c600e3e
 
 Aula 10
-- Abstração, Singleton, Persistencia, Composer, conexão com banco de dados mysql
+- https://chat.openai.com/share/a53d2ee3-b837-49a0-8e76-b8d004704eae
+
+Aula 11
+- Implementação no projeto agora com banco de dados e arquitetura sem dependencia

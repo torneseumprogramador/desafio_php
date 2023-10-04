@@ -1,0 +1,23 @@
+{
+    "name": "danilo/composer",
+    "description": "Aula sobre composer no desafio de PHP",
+    "type": "project",
+    "license": "Free",
+    "autoload": {
+        "psr-4": {
+            "Danilo\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Aparecido dos Santos",
+            "email": "didox_59@yahoo.com.br"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "scripts": {
+        "start": "php src/envioDeEmail.php"
+    }
+}
