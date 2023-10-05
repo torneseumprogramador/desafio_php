@@ -13,7 +13,10 @@
             "email": "didox_59@yahoo.com.br"
         }
     ],
-    "require": {},
+    "require": {
+        "catfan/medoo": "^2.1",
+        "symfony/console": "^6.3"
+    },
     "scripts": {
         "start": "php src/init.php"
     }
