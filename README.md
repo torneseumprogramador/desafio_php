@@ -29,4 +29,5 @@ Aula 10
 - https://chat.openai.com/share/a53d2ee3-b837-49a0-8e76-b8d004704eae
 
 Aula 11
-- Implementação no projeto agora com banco de dados e arquitetura sem dependencia
+- https://chat.openai.com/share/e628c37a-300d-48aa-b93e-061df8aa0421
+- https://chat.openai.com/share/66e8a892-dfdd-437c-a6a1-cbefd6840d43
