@@ -31,3 +31,10 @@ Aula 10
 Aula 11
 - https://chat.openai.com/share/e628c37a-300d-48aa-b93e-061df8aa0421
 - https://chat.openai.com/share/66e8a892-dfdd-437c-a6a1-cbefd6840d43
+
+Aula 12
+- https://chat.openai.com/share/62a78b49-24b5-4e8a-ba29-af8374bcc3e7
+
+
+
+
