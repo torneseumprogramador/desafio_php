@@ -35,6 +35,7 @@ Aula 11
 Aula 12
 - https://chat.openai.com/share/62a78b49-24b5-4e8a-ba29-af8374bcc3e7
 
-
+Aula 13
+-
 
 
