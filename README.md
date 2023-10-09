@@ -41,3 +41,6 @@ Aula 13
 Aula 14
 - https://chat.openai.com/share/bbf03d0e-0a93-4676-952e-09506b1d350f
 
+Aula 15
+- https://chat.openai.com/share/24b81217-4580-4d36-8690-389e4694a0ef
+
