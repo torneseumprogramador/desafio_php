@@ -47,3 +47,6 @@ Aula 15
 Aula 16
 - https://chat.openai.com/share/44276dd3-aa38-4be3-bb7f-18785b2c8e4b
 
+Aula 17
+- https://chat.openai.com/share/3c3c859a-fd06-48c0-92b9-f5f67fd1c5ad
+
