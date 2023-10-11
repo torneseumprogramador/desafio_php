@@ -7,12 +7,17 @@ use Medoo\Medoo;
 class MysqlRepositorio implements IDado {
 
     public function __construct() {
+        $host = getenv('HOST_MYSQL') ? getenv('HOST_MYSQL') : 'localhost';
+        $db = getenv('DB_NAME') ? getenv('DB_NAME') : 'estoque';
+        $user = getenv('DB_USER') ? getenv('DB_USER') : 'root';
+        $pass = getenv('DB_PASSWORD') ? getenv('DB_PASSWORD') : 'root';
+
         $this->database = new Medoo([
             'database_type' => 'mysql',
-            'database_name' => 'estoque',
-            'server' => 'localhost',
-            'username' => 'root',
-            'password' => 'root'
+            'database_name' => $db,
+            'server' => $host,
+            'username' => $user,
+            'password' => $pass
         ]);
     }
     
