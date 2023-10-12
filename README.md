@@ -50,3 +50,7 @@ Aula 16
 Aula 17
 - https://chat.openai.com/share/3c3c859a-fd06-48c0-92b9-f5f67fd1c5ad
 
+Aula 18
+- https://chat.openai.com/share/95ad7c89-22f2-469e-a82a-aabfb22ac7fd
+
+
