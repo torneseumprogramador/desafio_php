@@ -56,3 +56,5 @@ Aula 18
 Aula 19
 - https://chat.openai.com/share/53655bd2-f5f8-471d-b0e7-5260ffe31ee9
 
+Aula 20
+- https://chat.openai.com/share/8deb72ea-cc08-4dc2-a210-84e80122508b
