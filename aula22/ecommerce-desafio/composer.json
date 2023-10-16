@@ -1,0 +1,26 @@
+{
+    "name": "danilo/ecommerce-desafio",
+    "description": "Aprendendo o Framework Slim",
+    "license": "Free",
+    "autoload": {
+        "psr-4": {
+            "Danilo\\EcommerceDesafio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Aparecido dos Santos",
+            "email": "didox_59@yahoo.com.br"
+        }
+    ],
+    "scripts": {
+        "start": "php -S localhost:8080 src/index.php"
+    },
+    "config": {
+        "process-timeout": 600
+    },
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.6"
+    }
+}
