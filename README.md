@@ -66,3 +66,8 @@ Aula 22
 - https://chat.openai.com/share/79729dc3-32be-41a0-b9dd-220cd0c1f131
 - https://chat.openai.com/share/0df9434d-8e5b-43ea-a606-6fa8f2a1e091
 
+Aula 23
+- https://chat.openai.com/share/c4634aaf-dbf5-4bdb-a7a5-92885d92876f
+
+Aula 24
+- https://chat.openai.com/share/5700d897-c9ee-406b-8970-56c852b0ae25
