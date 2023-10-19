@@ -71,3 +71,15 @@ Aula 23
 
 Aula 24
 - https://chat.openai.com/share/5700d897-c9ee-406b-8970-56c852b0ae25
+
+Aula 25
+- https://chat.openai.com/share/56a5aa09-ee8c-4f49-b841-c7d8bc14ef73
+
+
+```shell
+o que veremos depois
+- Validações
+- Testes
+- Cadastro pedidos
+```
+

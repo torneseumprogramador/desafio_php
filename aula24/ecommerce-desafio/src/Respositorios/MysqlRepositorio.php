@@ -1,5 +1,5 @@
 <?php 
-namespace Danilo\EcommerceDesafio\Respositorios;
+namespace Danilo\EcommerceDesafio\Repositorios;
 
 class MysqlRepositorio{
     private function __construct() {

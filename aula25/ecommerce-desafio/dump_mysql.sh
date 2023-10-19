@@ -1,0 +1,1 @@
+mysqldump -uroot -p'root' desafio_php_clientes > dump.sql

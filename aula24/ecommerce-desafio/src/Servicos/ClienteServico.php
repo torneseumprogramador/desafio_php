@@ -1,7 +1,7 @@
 <?php 
 namespace Danilo\EcommerceDesafio\Servicos;
 
-use Danilo\EcommerceDesafio\Respositorios\MysqlRepositorio;
+use Danilo\EcommerceDesafio\Repositorios\MysqlRepositorio;
 use Danilo\EcommerceDesafio\Models\Cliente;
 
 class ClienteServico {
