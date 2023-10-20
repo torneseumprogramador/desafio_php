@@ -75,11 +75,13 @@ Aula 24
 Aula 25
 - https://chat.openai.com/share/56a5aa09-ee8c-4f49-b841-c7d8bc14ef73
 
+Aula 26
+- https://chat.openai.com/share/975650b8-22de-4211-bff5-66d723f0d01b
 
 ```shell
 o que veremos depois
-- Validações
-- Testes
+- criar testes de comportamento BDD (rodar pelo navegador)
 - Cadastro pedidos
+- API
 ```
 
