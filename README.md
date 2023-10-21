@@ -78,9 +78,11 @@ Aula 25
 Aula 26
 - https://chat.openai.com/share/975650b8-22de-4211-bff5-66d723f0d01b
 
+Aula 27
+- https://chat.openai.com/share/74a2f6c8-b4f1-4999-a60d-d4f16b6ca820
+
 ```shell
 o que veremos depois
-- criar testes de comportamento BDD (rodar pelo navegador)
 - Cadastro pedidos
 - API
 ```
