@@ -81,9 +81,16 @@ Aula 26
 Aula 27
 - https://chat.openai.com/share/74a2f6c8-b4f1-4999-a60d-d4f16b6ca820
 
+Aula 28
+- https://chat.openai.com/share/c0ad70ff-22c2-49ed-bc31-bdd6dd83f3e8
+
+
 ```shell
-o que veremos depois
-- Cadastro pedidos
 - API
+- Zend framework
+- Cake
+- Laravel
+- Docker / Infra / devops
+- fim do desafio
 ```
 
