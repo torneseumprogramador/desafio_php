@@ -84,9 +84,12 @@ Aula 27
 Aula 28
 - https://chat.openai.com/share/c0ad70ff-22c2-49ed-bc31-bdd6dd83f3e8
 
+Aula 29
+- https://chat.openai.com/share/311d3662-eac1-4bf1-9435-1753a8cf680a
 
 ```shell
-- API
+- API JWT ( e cookie para app render html server side)
+- API Vue.js
 - Zend framework
 - Cake
 - Laravel
