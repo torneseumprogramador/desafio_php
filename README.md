@@ -93,6 +93,7 @@ Aula 30
 
 ```shell
 - API Vue.js
+- cookie para render server side
 - Zend framework
 - Cake
 - Laravel
