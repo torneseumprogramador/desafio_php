@@ -91,9 +91,11 @@ Aula 30
 - https://chat.openai.com/share/e1619933-16f8-4afc-945d-408fa4786e8a
 - https://chat.openai.com/share/b1a00735-b095-4a11-9627-e1d158d4d294
 
+Aula 31
+- https://chat.openai.com/share/083e8353-2104-44ae-8ab3-2f3a0555043e
+
 ```shell
-- API Vue.js
-- cookie para render server side
+- login Vue.js e Login cookie para render server side
 - Zend framework
 - Cake
 - Laravel
