@@ -94,8 +94,13 @@ Aula 30
 Aula 31
 - https://chat.openai.com/share/083e8353-2104-44ae-8ab3-2f3a0555043e
 
+Aula 32
+- https://chat.openai.com/share/1e426a79-509c-4495-ac92-83db9ec50b4f
+- https://github.com/torneseumprogramador/ecommerce-desafio-phpunit-26/tree/aula32-cookie
+- https://chat.openai.com/share/dc9abb63-8130-4fc1-a39f-ce02aa6ce17f
+
 ```shell
-- login Vue.js e Login cookie para render server side
+- Login cookie para render server side
 - Zend framework
 - Cake
 - Laravel
