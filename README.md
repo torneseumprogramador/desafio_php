@@ -99,9 +99,11 @@ Aula 32
 - https://github.com/torneseumprogramador/ecommerce-desafio-phpunit-26/tree/aula32-cookie
 - https://chat.openai.com/share/dc9abb63-8130-4fc1-a39f-ce02aa6ce17f
 
+Aula 33
+- https://chat.openai.com/share/c506aeff-5857-4ba1-b1e8-74b41a660f8d
+
 ```shell
-- Login cookie para render server side
-- Zend framework
+- Zend framework - Estruturar código do ecommerce, criando cadastros etc...
 - Cake
 - Laravel
 - Docker / Infra / devops
