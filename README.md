@@ -102,8 +102,11 @@ Aula 32
 Aula 33
 - https://chat.openai.com/share/c506aeff-5857-4ba1-b1e8-74b41a660f8d
 
+Aula 34
+- https://chat.openai.com/share/6a8ea076-9e5b-4fb2-a7f5-434ad07ce7cb
+
 ```shell
-- Zend framework - Estruturar código do ecommerce, criando cadastros etc...
+- Zend framework - Migration item para proxima aula
 - Cake
 - Laravel
 - Docker / Infra / devops
