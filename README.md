@@ -105,6 +105,9 @@ Aula 33
 Aula 34
 - https://chat.openai.com/share/6a8ea076-9e5b-4fb2-a7f5-434ad07ce7cb
 
+Aula 35
+- https://chat.openai.com/share/3a5121b5-79db-4aa0-b6b2-a0714dd50d2b
+
 ```shell
 - Zend framework - Migration item para proxima aula
 - Cake
