@@ -108,6 +108,10 @@ Aula 34
 Aula 35
 - https://chat.openai.com/share/3a5121b5-79db-4aa0-b6b2-a0714dd50d2b
 
+Aula 36
+- https://chat.openai.com/share/fd9ba39e-2586-4803-9bbd-4dd3cc7df2fd
+
+
 ```shell
 - Zend framework - Migration item para proxima aula
 - Cake
