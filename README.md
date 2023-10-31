@@ -111,9 +111,12 @@ Aula 35
 Aula 36
 - https://chat.openai.com/share/fd9ba39e-2586-4803-9bbd-4dd3cc7df2fd
 
+Aula 37
+- https://chat.openai.com/share/818ef548-926c-457c-9dcc-017783dda8dc
+
 
 ```shell
-- Zend framework - Migration item para proxima aula
+- Zend framework - Validação e API
 - Cake
 - Laravel
 - Docker / Infra / devops
