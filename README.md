@@ -114,10 +114,11 @@ Aula 36
 Aula 37
 - https://chat.openai.com/share/818ef548-926c-457c-9dcc-017783dda8dc
 
+Aula 38
+- https://chat.openai.com/share/c2db8725-d488-4532-b454-c7d7535d1061
 
 ```shell
-- Zend framework - Validação e API
-- Cake
+- Cake - começar a configurar DB
 - Laravel
 - Docker / Infra / devops
 - fim do desafio
