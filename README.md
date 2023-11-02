@@ -117,6 +117,10 @@ Aula 37
 Aula 38
 - https://chat.openai.com/share/c2db8725-d488-4532-b454-c7d7535d1061
 
+Aula 39
+- https://chat.openai.com/share/19d473ce-a974-4f01-9d23-78313618d575
+
+
 ```shell
 - Cake - começar a configurar DB
 - Laravel
