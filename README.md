@@ -120,11 +120,12 @@ Aula 38
 Aula 39
 - https://chat.openai.com/share/19d473ce-a974-4f01-9d23-78313618d575
 
+Aula 40
+- https://chat.openai.com/share/7ba06b79-3b33-4a78-b555-1ab4f303b45f
+- https://book.cakephp.org/5/en/development/routing.html#
 
 ```shell
-- Cake - começar a configurar DB
 - Laravel
 - Docker / Infra / devops
 - fim do desafio
 ```
-
