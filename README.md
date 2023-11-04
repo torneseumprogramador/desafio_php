@@ -124,8 +124,16 @@ Aula 40
 - https://chat.openai.com/share/7ba06b79-3b33-4a78-b555-1ab4f303b45f
 - https://book.cakephp.org/5/en/development/routing.html#
 
+Aula 41
+- https://chat.openai.com/share/3c1d4034-2567-4f29-9216-dbfe21351254
+
+
 ```shell
 - Laravel
+composer create-project --prefer-dist laravel/laravel ecommerce_desafio_laravel "^10"
+
+
+- CodeIgniter4
 - Docker / Infra / devops
 - fim do desafio
 ```
