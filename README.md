@@ -127,12 +127,12 @@ Aula 40
 Aula 41
 - https://chat.openai.com/share/3c1d4034-2567-4f29-9216-dbfe21351254
 
+Aula 42
+- https://chat.openai.com/share/52e82c75-fb8d-4601-8467-749e82326b19
+
 
 ```shell
-- Laravel
-composer create-project --prefer-dist laravel/laravel ecommerce_desafio_laravel "^10"
-
-
+- Laravel - Finalizar cadastro e iniciar API
 - CodeIgniter4
 - Docker / Infra / devops
 - fim do desafio
