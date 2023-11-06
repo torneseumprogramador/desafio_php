@@ -130,10 +130,12 @@ Aula 41
 Aula 42
 - https://chat.openai.com/share/52e82c75-fb8d-4601-8467-749e82326b19
 
+Aula 43
+- https://chat.openai.com/share/7bac651b-eebc-4ed0-866e-51e38605cf46
+
 
 ```shell
-- Laravel - Finalizar cadastro e iniciar API
-- CodeIgniter4
+- CodeIgniter4 - iniciar
 - Docker / Infra / devops
 - fim do desafio
 ```
