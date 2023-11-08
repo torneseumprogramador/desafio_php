@@ -136,6 +136,13 @@ Aula 43
 Aula 44
 - https://github.com/torneseumprogramador/ecommerce-desafio-codeigniter-php/tree/aula44-iniciando-com-codeigniter#readme
 
+Aula 45
+- https://chat.openai.com/share/02fca302-43d5-4582-ab51-0e359cc29042
+
+
+
+
+
 
 ```shell
 - CodeIgniter4 - iniciar
