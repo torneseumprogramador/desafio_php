@@ -139,13 +139,11 @@ Aula 44
 Aula 45
 - https://chat.openai.com/share/02fca302-43d5-4582-ab51-0e359cc29042
 
-
-
-
+Aula 46
+- https://chat.openai.com/share/853e2caf-d7a7-4b65-9cab-fba1960e02b8
 
 
 ```shell
-- CodeIgniter4 - iniciar
 - Docker / Infra / devops
 - fim do desafio
 ```
