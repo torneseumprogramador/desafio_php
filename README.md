@@ -142,6 +142,8 @@ Aula 45
 Aula 46
 - https://chat.openai.com/share/853e2caf-d7a7-4b65-9cab-fba1960e02b8
 
+Aula 47
+- https://chat.openai.com/share/624f7c2e-ee29-4a3c-b6cd-caa7823dd705
 
 ```shell
 - Docker / Infra / devops
