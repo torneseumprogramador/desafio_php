@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <title>Bootswatch: Quartz</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/desafio-php/assets/css/bootstrap.css">
-    <link rel="stylesheet" href="/desafio-php/assets/css/bootstrap-icons.min.css">
-    <link rel="stylesheet" href="/desafio-php/assets/css/prism-okaidia.css">
-    <link rel="stylesheet" href="/desafio-php/assets/css/custom.min.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="/assets/css/prism-okaidia.css">
+    <link rel="stylesheet" href="/assets/css/custom.min.css">
   </head>
   <body>
     <div class="navbar navbar-expand-lg fixed-top bg-primary" data-bs-theme="dark">
@@ -62,7 +62,7 @@
               <div class="dropdown-menu" aria-labelledby="download">
                 <a class="dropdown-item" rel="noopener" target="_blank" href="https://jsfiddle.net/bootswatch/a3z27pyf/">Open in JSFiddle</a>
                 <div class="dropdown-divider"></div>
-                <a class="dropdown-item" href="/desafio-php/assets/css/bootstrap.css" download>bootstrap.css</a>
+                <a class="dropdown-item" href="/assets/css/bootstrap.css" download>bootstrap.css</a>
                 <a class="dropdown-item" href="../5/quartz/bootstrap.min.css" download>bootstrap.min.css</a>
                 <div class="dropdown-divider"></div>
                 <a class="dropdown-item" href="../5/quartz/bootstrap.rtl.css" download>bootstrap.rtl.css</a>
@@ -1780,8 +1780,8 @@
       </footer>
     </div>
 
-    <script src="/desafio-php/assets/js/bootstrap.bundle.min.js"></script>
-    <script src="/desafio-php/assets/js/prism.js" data-manual></script>
-    <script src="/desafio-php/assets/js/custom.js"></script>
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/js/prism.js" data-manual></script>
+    <script src="/assets/js/custom.js"></script>
   </body>
 </html>

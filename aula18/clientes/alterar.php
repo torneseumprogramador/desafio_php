@@ -23,6 +23,6 @@
     <br>
     <br>
     <?php include '../comuns/scripts.php' ?>
-    <script src="/desafio-php/assets/js/validacao.js" data-manual></script>
+    <script src="/assets/js/validacao.js" data-manual></script>
   </body>
 </html>
