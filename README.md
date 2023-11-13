@@ -143,9 +143,21 @@ Aula 46
 - https://chat.openai.com/share/853e2caf-d7a7-4b65-9cab-fba1960e02b8
 
 Aula 47
+- https://chat.openai.com/share/d023f832-767f-48f5-8f0a-5867b7e1a863
+
+Aula 48
+- https://chat.openai.com/share/2fe68a50-2774-4641-8de9-a4492594f0b7
+
+Aula 49
 - https://chat.openai.com/share/624f7c2e-ee29-4a3c-b6cd-caa7823dd705
+
+Aula 50
+- https://chat.openai.com/share/f106bc3d-59df-470f-a41f-1a9540399916
 
 ```shell
 - Docker / Infra / devops
 - fim do desafio
 ```
+
+
+certbot --apache -d api.daniloaparecido.com.br -d php.daniloaparecido.com.br
